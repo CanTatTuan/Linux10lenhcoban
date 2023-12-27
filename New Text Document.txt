@@ -1,0 +1,41 @@
+Các lệnh unbutu trong linux:
+
+sudo apt update : kéo cập nhật
+
+sudo apt upgrade : tiến hành cập nhật
+
+ls: liệt kê các file trong foler
+
+cd: chuyển đến thư mục chỉ định
+
+clear : làm sạch terminal
+
+mkdir : tạo folder
+
+rmdir : xóa foler
+
+touch : tạo file
+
+rm tenfile : xóa file
+
+vim : edittor (vim)
+
+cat tenfile : innoidung
+
+echo noidung : viết nội dung
+
+tail tenfile : innoidung 10 dòng cuối
+
+tail -n tenfile : innoidung n dòng cuối
+
+grep noidung : tim noi dung va bôi đậm nó ví dụ echo tuan | grep tuan
+
+
+cp tenfile new tenfilemoi : copy sang file mới
+
+
+
+
+
+
+
